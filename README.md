@@ -1,1 +1,1 @@
-# typeScript
+# typeScript教程
