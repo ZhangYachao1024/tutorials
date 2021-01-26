@@ -1,1 +1,2 @@
-# typeScript教程
+# 教程Note
+
